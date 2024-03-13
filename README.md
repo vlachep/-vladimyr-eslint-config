@@ -1,0 +1,2 @@
+# -vladimyr-eslint-config
+vlachep
